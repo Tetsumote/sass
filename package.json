@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/Tetsumote/sass/issues"
   },
-  "homepage": "https://github.com/Tetsumote/sass#readme"
+  "homepage": "https://github.com/Tetsumote/sass#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-webserver": "^0.9.1"
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "sass essential training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetsumote/sass.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Paul Grajewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetsumote/sass/issues"
+  },
+  "homepage": "https://github.com/Tetsumote/sass#readme"
+}
